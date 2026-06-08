@@ -15,4 +15,6 @@
 ### Lista de Colaboradores:
 
 * **Carlos Campo** - [Tu Rol Aquí] - [Algo que te guste]
+* **Gustavo Salazar** - UI/UX - Me gustan los idiomas, específicamente el japonés
+
 
