@@ -16,5 +16,5 @@
 
 * **Carlos Campo** - [Tu Rol Aquí] - [Algo que te guste]
 * **Gustavo Salazar** - UI/UX - Me gustan los idiomas, específicamente el japonés
-
+* **Brando Mendoza** - Ingeniero de Datos python talend SQL un poco de java - jugar futbol y la lectura
 
