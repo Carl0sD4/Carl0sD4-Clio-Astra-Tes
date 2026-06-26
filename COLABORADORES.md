@@ -19,4 +19,4 @@
 * **Brando Mendoza** - Ingeniero de Datos python talend SQL un poco de java - jugar futbol y la lectura
 
 
-Falta sebas por anadir su cuestion
+Falta sebas por anadir su cuestion; nada que anade la cuestion 

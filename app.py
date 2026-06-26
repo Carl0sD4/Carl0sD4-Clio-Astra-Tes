@@ -17,3 +17,5 @@ if __name__ == "__main__":
     # Cloud Run requiere escuchar en 0.0.0.0 y usa la variable de entorno PORT (por defecto 8080)
     port = int(os.environ.get('PORT', 8080))
     app.run(debug=True, host='0.0.0.0', port=port)
+
+    print("que perros")
